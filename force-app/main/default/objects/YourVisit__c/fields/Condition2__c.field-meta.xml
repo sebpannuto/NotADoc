@@ -295,7 +295,7 @@
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>urine problem</controllingFieldValue>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <valueName>incontinence</valueName>
         </valueSettings>
@@ -387,7 +387,7 @@
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>vomiting</controllingFieldValue>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <controllingFieldValue>pregnancy related</controllingFieldValue>
             <valueName>pregnancy</valueName>
@@ -408,7 +408,7 @@
         <valueSettings>
             <controllingFieldValue>weight loss</controllingFieldValue>
             <controllingFieldValue>wellness checkup</controllingFieldValue>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <controllingFieldValue>mole</controllingFieldValue>
             <valueName>cancer screening</valueName>
@@ -505,74 +505,74 @@
             <valueName>vaccinations</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <valueName>breast cancer</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <controllingFieldValue>pregnancy related</controllingFieldValue>
             <valueName>caesarian section</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <valueName>cervical cancer</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <controllingFieldValue>abdominal pain</controllingFieldValue>
             <controllingFieldValue>pregnancy related</controllingFieldValue>
             <valueName>ectopic pregnancy</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <controllingFieldValue>abdominal pain</controllingFieldValue>
             <valueName>endometriosis</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <valueName>fibroids</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <valueName>infertility</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <valueName>irregular menses</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <valueName>menopause</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <controllingFieldValue>abdominal pain</controllingFieldValue>
             <valueName>menstrual cramps</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <controllingFieldValue>pregnancy related</controllingFieldValue>
             <valueName>miscarriage</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>
             <controllingFieldValue>abdominal pain</controllingFieldValue>
             <valueName>ovarian cysts</valueName>
         </valueSettings>
         <valueSettings>
-            <controllingFieldValue>female related</controllingFieldValue>
+            <controllingFieldValue>women&#39;s health</controllingFieldValue>
             <controllingFieldValue>fever</controllingFieldValue>
             <controllingFieldValue>travel related</controllingFieldValue>
             <controllingFieldValue>other</controllingFieldValue>

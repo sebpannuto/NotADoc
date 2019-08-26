@@ -1,8 +1,7 @@
-<apex:page standardController="YourVisit__c" extensions="YourVisitExtension">
+<apex:page standardController="YourVisit__c" >
     
     <style>
-        .widthhalf{width:49.5%;display:inline-block;vertical-align:top;}
-        .widthquarter{width:24.5%;display:inline-block;}
+        .widthhalf{width:49.5%; display:inline-block; vertical-align:top;}
     </style>
     
     <apex:form >
@@ -31,6 +30,7 @@
                     </apex:pageBlock>
                 </div>
             </div>
+            
             <div class="widthhalf">
                 <div class="widthhalf">
                     <apex:pageBlock title="Other Concerns">           
